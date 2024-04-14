@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Yi Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChenYi015&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenYi015&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
